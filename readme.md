@@ -1,15 +1,16 @@
 # Assignment: Create a User Profile Page
 
 ## Your task is not too different from the kind of work we do putting together a hybrid application for one of our clients. Your assignment is to begin building a user profile.
+## Available to you is a design specification for how we would like the user interface to be laid out.  You will need to create a mock server that provides a RESTful API for retrieving the necessary data. 
+## You should work from the specification below to produce a finished product that is illustrated by the example below. 
+## It is now up to you to create the solution!
 
-## Available to you is a design specification for how we would like this laid out and a RESTful API for getting the data. It is now up to you to create the solution!
-## You should work from the specification below to produce a finished product like what follows it.
 
 ![](frontend-spec.png)
 
 ![](frontend-result.png)
 
-## If you access `http://applicant.pointsource.us/api/testUser/5733a7337e3d61136595a0c9` you will see a response like:
+## If you access `http://{mock server address}/api/testUser/5733a7337e3d61136595a0c9` you will see a response like:
 ```
 {  
    "person":{  
