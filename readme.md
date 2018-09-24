@@ -28,11 +28,11 @@ If you access `http://{mock server address}/api/testUser/5733a7337e3d61136595a0c
       "gender":"female",
       "given-name":"Teresa",
       "family-name":"Lewis",
-      "imageURL":"/assets/img/female3.img"
+      "imageURL":"/assets/img/female3.png"
    }
 }
 ```
-*To complete your work, you should use the placeholder imageURL in the JSON response.*
+*To complete your work, you should use the placeholder imageURL in the JSON response.  This file is included with this project.*
 
 # Submission Guidelines
 ## The rules are simple:
